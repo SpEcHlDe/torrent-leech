@@ -2,7 +2,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Leech Bot</b>!\nMy Owner is @A_b_r_i_s_h_B>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Leech Bot</b>!\nMy Owner is @A_b_r_i_s_h_B",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
